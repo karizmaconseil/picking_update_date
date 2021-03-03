@@ -1,0 +1,4 @@
+[submodule "karizmaconseil/kzm_purchase_stock"]
+	path = karizmaconseil/kzm_purchase_stock
+	url = git@github.com:karizmaconseil/kzm_purchase_stock.git
+	branch = 13.0
